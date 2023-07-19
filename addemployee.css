@@ -1,0 +1,28 @@
+body{
+    background-image:url("employee.jpg");
+   background-size: cover;
+  
+   
+}
+
+p{
+    position:absolute;
+    width:400px;
+    height:30px;
+    left:500px;
+    top:80px;
+    font-family:'Jolly Lodger';
+    font-style:normal;
+    font-weight:400;
+    font-size:30px;
+    line-height:58px;
+    color:red;
+}
+input[type=text] {
+    width: 30%;
+    padding:2px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-color: rgb(52, 92, 214);
+    color: black;
+}
